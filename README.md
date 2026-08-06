@@ -1,4 +1,4 @@
-# Hi, I'm Jac 👋
+# Hi, I'm Jac
 
 AI product engineer in Shenzhen (UTC+8) — I take agent products from concept to production: product design, interaction paradigms, and full-stack build.
 
@@ -12,4 +12,4 @@ AI product engineer in Shenzhen (UTC+8) — I take agent products from concept t
 
 I write about AI agents, Web3, and development workflows at [juntaochi.com](https://juntaochi.com).
 
-📫 476409177cjt@gmail.com · [LinkedIn](https://www.linkedin.com/in/juntaochi/)
+476409177cjt@gmail.com · [LinkedIn](https://www.linkedin.com/in/juntaochi/)
