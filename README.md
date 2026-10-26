@@ -1,6 +1,6 @@
 # Hi, I'm Jac
 
-AI product engineer in Shenzhen (UTC+8) — I take agent products from concept to production: product design, interaction paradigms, and full-stack build.
+AI product engineer in Beijing (UTC+8) — I take agent products from concept to production: product design, interaction paradigms, and full-stack build.
 
 **What I build:**
 
